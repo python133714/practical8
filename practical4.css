@@ -1,0 +1,71 @@
+header{
+    color: aliceblue;
+    background-color: navy;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+   
+}
+
+nav {
+    background-color: blue;
+  
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: darkslategray;
+    color: #fff;
+}
+
+nav a:hover {
+    text-decoration:underline;
+}
+
+
+#vision {
+    box-shadow: 2px 2px 10px ; 
+    padding: 16px;
+    background: #fff;
+    border-radius: 8px;
+}
+
+#mission {
+     box-shadow: 2px 2px 10px ; 
+    padding: 16px;
+    background: #fff;
+    border-radius: 8px;
+}
+
+#program-specific-outcomes{ 
+    box-shadow: 2px 2px 10px ; 
+    padding: 16px;
+    background: #fff;
+    border-radius: 8px;
+}
+
+#course-offered {
+    box-shadow: 2px 2px 10px ; 
+    padding: 16px;
+    background: #fff;
+    border-radius: 8px;
+}
+
+#top-recruiters {
+    box-shadow: 2px 2px 10px ; 
+    padding: 16px;
+    background: #fff;
+    border-radius: 8px;
+
+}
+
+footer{
+    color: #fff;
+    background-color: navy;
+    text-align: center;
+    padding: 5px 0;
+}
